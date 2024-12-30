@@ -9,8 +9,8 @@ The reports are in Portuguese.
 
 ### [Project 1: Optimizing Sheet Cutting](/Exercises-ASA/Exercise1OptimizingSheetCutting/exercise1.cpp)
 #### Problem: Maximize the profit from cutting a sheet into pieces with predefined dimensions and values.
-    - Dynamic programming is used to calculate the optimal cuts, considering horizontal and vertical possibilities.
-    - Optimizations include processing only half the matrix (due to symmetry) and reducing redundant calculations.
+  - Dynamic programming is used to calculate the optimal cuts, considering horizontal and vertical possibilities.
+  - Optimizations include processing only half the matrix (due to symmetry) and reducing redundant calculations.
 
 ### [Project 2: Maximum Disease Spread in a Graph](/Exercises-ASA/Exercise2MaximumDiseaseSpread/exercise2.cpp)
 #### Problem: Determine the maximum number of "jumps" a disease can make between individuals in a directed graph, considering that individuals in a strongly connected component (SCC) infect each other instantly.
@@ -27,4 +27,4 @@ The reports are in Portuguese.
   - A Python implementation uses the `PuLP` library to solve the linear programming problem.
 
 ## Credits
-This project was developed by [Miguel Barbosa]() and [Diogo Almada]().
+This project was developed by [Miguel Barbosa](https://github.com/MiguelCBar/) and [Diogo Almada](https://github.com/almada39/).
